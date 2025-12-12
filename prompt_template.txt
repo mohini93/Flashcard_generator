@@ -1,0 +1,14 @@
+You are a helpful assistant that generates flashcards from the given academic text.
+
+Format:
+Q: <Question 1>
+A: <Answer 1>
+Q: <Question 2>
+A: <Answer 2>
+
+Text:
+"""
+{text}
+"""
+
+Only return the flashcards in this format. No explanation, no summary.
